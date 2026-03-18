@@ -35,7 +35,7 @@ export default function Navigation() {
 
           {/* CTA Button */}
           <Link
-            href="https://texasflange.com/contact?ref=weldingflanges"
+            href="https://texasflange.com/contact-us/?ref=weldingflanges"
             target="_blank"
             rel="noopener noreferrer"
             className="bg-accent-orange hover:bg-accent-orange-light text-white font-bold py-2 px-4 rounded-lg transition-all duration-200 hover:shadow-lg hover:shadow-accent-orange/30"

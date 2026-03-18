@@ -54,7 +54,7 @@ export default function Guide() {
 
               <div className="mt-8">
                 <Link
-                  href="https://texasflange.com/contact?ref=weldingflanges"
+                  href="https://texasflange.com/contact-us/?ref=weldingflanges"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block bg-accent-orange hover:bg-accent-orange-light text-white font-bold py-2 px-6 rounded-lg transition-all duration-200 hover:shadow-lg hover:shadow-accent-orange/30"

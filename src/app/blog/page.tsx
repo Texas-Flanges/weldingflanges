@@ -170,7 +170,7 @@ export default function Blog() {
             Browse our technical resources and contact Texas Flange for sourcing and custom manufacturing.
           </p>
           <a
-            href="https://texasflange.com/contact?ref=weldingflanges"
+            href="https://texasflange.com/contact-us/?ref=weldingflanges"
             style={{
               display: "inline-block",
               background: "#e8590c",

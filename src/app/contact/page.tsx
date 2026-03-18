@@ -96,7 +96,7 @@ export default function Contact() {
               Ready to source quality welding flanges? Our partner Texas Flange handles all procurement and custom orders.
             </p>
             <a
-              href="https://texasflange.com/contact?ref=weldingflanges"
+              href="https://texasflange.com/contact-us/?ref=weldingflanges"
               style={{
                 display: "inline-block",
                 background: "#e8590c",

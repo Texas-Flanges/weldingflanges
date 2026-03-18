@@ -127,7 +127,7 @@ export default function Services() {
             Contact our partner Texas Flange for expert guidance and custom sourcing solutions.
           </p>
           <a
-            href="https://texasflange.com/contact?ref=weldingflanges"
+            href="https://texasflange.com/contact-us/?ref=weldingflanges"
             style={{
               display: "inline-block",
               background: "#e8590c",

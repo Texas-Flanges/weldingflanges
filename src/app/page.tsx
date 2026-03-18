@@ -69,7 +69,7 @@ export default function Home() {
             Blog
           </a>
           <a
-            href="https://texasflange.com/contact?ref=weldingflanges"
+            href="https://texasflange.com/contact-us/?ref=weldingflanges"
             style={{
               background: "#e8590c",
               color: "#fff",
@@ -128,7 +128,7 @@ export default function Home() {
             }}
           >
             <a
-              href="https://texasflange.com/contact?ref=weldingflanges"
+              href="https://texasflange.com/contact-us/?ref=weldingflanges"
               style={{
                 background: "#fff",
                 color: "#0c1829",
@@ -362,7 +362,7 @@ export default function Home() {
           welding flange types.
         </p>
         <a
-          href="https://texasflange.com/contact?ref=weldingflanges"
+          href="https://texasflange.com/contact-us/?ref=weldingflanges"
           style={{
             background: "#fff",
             color: "#0c1829",
@@ -453,7 +453,7 @@ export default function Home() {
           </a>{" "}
           |{" "}
           <a
-            href="https://texasflange.com/contact?ref=weldingflanges"
+            href="https://texasflange.com/contact-us/?ref=weldingflanges"
             style={{ color: "#93c5fd" }}
           >
             Request a Quote

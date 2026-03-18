@@ -97,7 +97,7 @@ export default function About() {
             Explore our technical resources or contact our partner Texas Flange for sourcing support.
           </p>
           <a
-            href="https://texasflange.com/contact?ref=weldingflanges"
+            href="https://texasflange.com/contact-us/?ref=weldingflanges"
             style={{
               display: "inline-block",
               background: "#e8590c",

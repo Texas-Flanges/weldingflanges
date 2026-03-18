@@ -107,7 +107,7 @@ export default function FAQ() {
                   </p>
                   {faq.id === 'faq-2' || faq.id === 'faq-4' ? (
                     <Link
-                      href="https://texasflange.com/contact?ref=weldingflanges"
+                      href="https://texasflange.com/contact-us/?ref=weldingflanges"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="inline-block text-accent-orange hover:text-accent-orange-light font-semibold text-sm"
@@ -136,7 +136,7 @@ export default function FAQ() {
           </p>
           <div className="flex justify-center">
             <Link
-              href="https://texasflange.com/contact?ref=weldingflanges"
+              href="https://texasflange.com/contact-us/?ref=weldingflanges"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-accent-orange hover:bg-accent-orange-light text-white font-bold py-2 px-6 rounded-lg transition-all duration-200 hover:shadow-lg hover:shadow-accent-orange/30"
