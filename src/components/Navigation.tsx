@@ -26,10 +26,16 @@ export default function Navigation() {
               Home
             </Link>
             <Link
-              href="/blog"
+              href="/products"
               className="text-[#0c1829] hover:text-accent-orange font-medium"
             >
-              Blog
+              Products
+            </Link>
+            <Link
+              href="/technical-data"
+              className="text-[#0c1829] hover:text-accent-orange font-medium"
+            >
+              Technical Data
             </Link>
           </div>
 

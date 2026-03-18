@@ -65,8 +65,11 @@ export default function Home() {
           <a href="/" style={{ color: "#0c1829", textDecoration: "none", fontWeight: 500 }}>
             Home
           </a>
-          <a href="/blog" style={{ color: "#0c1829", textDecoration: "none", fontWeight: 500 }}>
-            Blog
+          <a href="/products" style={{ color: "#0c1829", textDecoration: "none", fontWeight: 500 }}>
+            Products
+          </a>
+          <a href="/technical-data" style={{ color: "#0c1829", textDecoration: "none", fontWeight: 500 }}>
+            Technical Data
           </a>
           <a
             href="https://texasflange.com/contact-us/?ref=weldingflanges"

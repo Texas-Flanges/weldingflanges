@@ -21,9 +21,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.8,
     },
     {
-      url: 'https://weldingflanges.com/blog',
+      url: 'https://weldingflanges.com/products',
       lastModified: new Date(),
-      changeFrequency: 'weekly',
+      changeFrequency: 'monthly',
+      priority: 0.8,
+    },
+    {
+      url: 'https://weldingflanges.com/technical-data',
+      lastModified: new Date(),
+      changeFrequency: 'monthly',
       priority: 0.8,
     },
     {
