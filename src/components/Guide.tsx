@@ -2,7 +2,7 @@ import Link from 'next/link';
 
 export default function Guide() {
   return (
-    <section className="py-20 bg-[#0c1829]">
+    <section className="py-10 sm:py-16 lg:py-20 bg-[#0c1829]">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           {/* Left side - Visual element */}

@@ -54,7 +54,7 @@ export default function FAQ() {
   };
 
   return (
-    <section className="py-20 bg-[#f3f4f6]">
+    <section className="py-10 sm:py-16 lg:py-20 bg-[#f3f4f6]">
       <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
         <h2 className="text-4xl font-bold text-[#0c1829] mb-4 text-center">
           Frequently Asked Questions
@@ -71,7 +71,7 @@ export default function FAQ() {
             >
               <button
                 onClick={() => toggleFAQ(faq.id)}
-                className="w-full px-6 py-4 bg-white hover:bg-gray-50 flex items-center justify-between text-left transition-colors"
+                className="w-full px-3 sm:px-6 py-3 sm:py-4 bg-white hover:bg-gray-50 flex items-center justify-between text-left transition-colors"
                 aria-expanded={openId === faq.id}
                 aria-controls={`${faq.id}-content`}
               >
@@ -101,7 +101,7 @@ export default function FAQ() {
                 id={`${faq.id}-content`}
                 className={`accordion-content ${openId === faq.id ? 'open' : 'closed'}`}
               >
-                <div className="px-6 py-4 bg-gray-50 border-t border-gray-300">
+                <div className="px-3 sm:px-6 py-3 sm:py-4 bg-gray-50 border-t border-gray-300">
                   <p className="text-[#4b5563] leading-relaxed mb-4">
                     {faq.answer}
                   </p>

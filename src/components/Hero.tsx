@@ -6,7 +6,7 @@ export default function Hero() {
       {/* Accent line effect */}
       <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-transparent via-accent-orange to-transparent"></div>
 
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-20 text-center relative z-10">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10 sm:py-16 lg:py-20 text-center relative z-10">
         <h1 className="text-5xl md:text-6xl font-bold text-[#0c1829] mb-6 leading-tight">
           Welding Flanges
         </h1>

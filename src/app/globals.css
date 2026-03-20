@@ -65,3 +65,14 @@ button:focus-visible {
   max-height: 0;
   opacity: 0;
 }
+
+/* Mobile responsiveness breakpoints */
+@media (max-width: 640px) {
+  h1 { font-size: 1.75rem; }
+  h2 { font-size: 1.375rem; }
+  h3 { font-size: 1.125rem; }
+}
+
+@media (max-width: 767px) {
+  .hidden-mobile { display: none !important; }
+}
