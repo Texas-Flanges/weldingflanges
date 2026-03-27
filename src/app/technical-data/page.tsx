@@ -76,46 +76,15 @@ export default function TechnicalData() {
           Flange pressure ratings define the maximum allowable working pressure (MAWP) at a given temperature. Ratings decrease as temperature increases due to reduced material strength.
         </p>
 
-        {/* Pressure Class Overview Table */}
-        <div style={{ marginBottom: "2rem", overflowX: "auto" }}>
-          <table style={{
-            width: "100%",
-            borderCollapse: "collapse",
-            border: "1px solid #d1d5db",
-            fontSize: "0.9rem",
-          }}>
-            <thead>
-              <tr style={{ background: "#0c1829", color: "#fff" }}>
-                <th style={{ padding: "0.75rem", textAlign: "left", borderRight: "1px solid #d1d5db" }}>Pressure Class</th>
-                <th style={{ padding: "0.75rem", textAlign: "left", borderRight: "1px solid #d1d5db" }}>Rating @ 100°F</th>
-                <th style={{ padding: "0.75rem", textAlign: "left", borderRight: "1px solid #d1d5db" }}>Rating @ 200°F</th>
-                <th style={{ padding: "0.75rem", textAlign: "left", borderRight: "1px solid #d1d5db" }}>Rating @ 400°F</th>
-                <th style={{ padding: "0.75rem", textAlign: "left" }}>Rating @ 600°F</th>
-              </tr>
-            </thead>
-            <tbody>
-              {[
-                { class: "150#", r100: "150 psi", r200: "150 psi", r400: "145 psi", r600: "100 psi" },
-                { class: "300#", r100: "300 psi", r200: "300 psi", r400: "260 psi", r600: "185 psi" },
-                { class: "600#", r100: "600 psi", r200: "600 psi", r400: "515 psi", r600: "340 psi" },
-                { class: "900#", r100: "900 psi", r200: "900 psi", r400: "770 psi", r600: "500 psi" },
-                { class: "1500#", r100: "1500 psi", r200: "1500 psi", r400: "1280 psi", r600: "840 psi" },
-                { class: "2500#", r100: "2500 psi", r200: "2500 psi", r400: "2130 psi", r600: "1400 psi" },
-              ].map((row, i) => (
-                <tr key={i} style={{ background: i % 2 === 0 ? "#f9fafb" : "#fff" }}>
-                  <td style={{ padding: "0.75rem", borderRight: "1px solid #d1d5db", borderBottom: "1px solid #d1d5db", fontWeight: 600, color: "#0c1829" }}>{row.class}</td>
-                  <td style={{ padding: "0.75rem", borderRight: "1px solid #d1d5db", borderBottom: "1px solid #d1d5db" }}>{row.r100}</td>
-                  <td style={{ padding: "0.75rem", borderRight: "1px solid #d1d5db", borderBottom: "1px solid #d1d5db" }}>{row.r200}</td>
-                  <td style={{ padding: "0.75rem", borderRight: "1px solid #d1d5db", borderBottom: "1px solid #d1d5db" }}>{row.r400}</td>
-                  <td style={{ padding: "0.75rem", borderBottom: "1px solid #d1d5db" }}>{row.r600}</td>
-                </tr>
-              ))}
-            </tbody>
-          </table>
-        </div>
-
-        <p style={{ fontSize: "0.95rem", lineHeight: 1.7, color: "#4b5563", marginBottom: "2rem", fontStyle: "italic" }}>
-          Note: Pressure ratings shown are for ASTM A105 carbon steel. Stainless steel and alloy ratings vary. Consult ASME B16.5/B16.47 for complete ratings at all temperatures.
+        <p style={{ fontSize: "1rem", lineHeight: 1.8, color: "#4b5563", marginBottom: "2rem" }}>
+          Reach out to{" "}
+          <a
+            href="https://texasflange.com/contact-us/?ref=weldingflanges"
+            style={{ color: "#0c1829", fontWeight: 600 }}
+          >
+            Texas Flange
+          </a>
+          {" "}for pressure-temperature data for a wide variety of alloy steels.
         </p>
 
         {/* Material Specifications */}

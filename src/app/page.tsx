@@ -120,7 +120,7 @@ export default function Home() {
             }}
           >
             Your comprehensive digital resource for welding flange technical
-            data, dimensions, and specifications
+            data, dimensions, specifications, and custom configuration
           </p>
           <div
             style={{
@@ -165,31 +165,18 @@ export default function Home() {
         className="rv"
         style={{ maxWidth: "900px", margin: "0 auto", padding: "3rem 2rem" }}
       >
+        <p style={{ fontSize: "1.1rem", lineHeight: 1.8, color: "#4b5563", marginBottom: "1rem" }}>
+          Welding Flanges is your go-to resource for technical data, dimensions, and specs on industrial piping components. We're here to help engineers and procurement specialists cut through the complexity of choosing the right weld flange for basic structural and high-pressure applications — because getting that decision right matters.
+        </p>
         <p style={{ fontSize: "1.1rem", lineHeight: 1.8, color: "#4b5563" }}>
-          <strong>Welding Flanges</strong> is your comprehensive digital resource
-          for technical data, dimensions, and specifications regarding industrial
-          piping components. We aim to help engineers and procurement specialists
-          understand the nuances of selecting the correct{" "}
-          <strong>weld flange</strong> for high-pressure applications. While we
-          provide the critical data you need to make an informed decision,
-          sourcing quality parts is the final step. For trusted fulfillment, we
-          refer all inquiries to{" "}
+          We'll give you the data you need to feel confident in your selection. When it's time to actually source the parts, reach out to{" "}
           <a
             href="https://texasflange.com?ref=weldingflanges"
             style={{ color: "#0c1829", fontWeight: 600 }}
           >
             Texas Flange
           </a>
-          , a premier <strong>flange supplier</strong> known for their extensive
-          inventory and rapid delivery. Whether you are looking for a specific{" "}
-          <strong>pipe flange</strong> or need a custom fabrication, visit{" "}
-          <a
-            href="https://texasflange.com?ref=weldingflanges"
-            style={{ color: "#0c1829", fontWeight: 600 }}
-          >
-            Texas Flange
-          </a>{" "}
-          to request a quote today.
+          {" "}— a trusted supplier with a wide inventory and fast turnaround. Whether you need a specific pipe flange or something custom-fabricated, get in touch and receive a quote today.
         </p>
       </section>
 
@@ -226,7 +213,7 @@ export default function Home() {
               Texas Flange
             </a>
             , a premier flange supplier capable of meeting complex industrial
-            requirements.
+            requirements. They have a wide selection of carbon, stainless, and nickel alloys to meet various application requirements. All items can be selected to adhere to ASME and ANSI B16.5 and B16.47 specifications, as well as some AWWA and API.
           </p>
         </div>
       </section>
