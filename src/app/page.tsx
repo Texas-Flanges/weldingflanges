@@ -215,6 +215,10 @@ export default function Home() {
             , a premier flange supplier capable of meeting complex industrial
             requirements. They have a wide selection of carbon, stainless, and nickel alloys to meet various application requirements. All items can be selected to adhere to ASME and ANSI B16.5 and B16.47 specifications, as well as some AWWA and API.
           </p>
+          {/* eslint-disable-next-line @next/next/no-img-element */}
+          <div style={{ textAlign: "center", marginTop: "2rem" }}>
+            <img src="/welding-flange-ring.jpg" alt="Large diameter welding flange ring" style={{ maxWidth: "600px", width: "100%", borderRadius: "8px", boxShadow: "0 4px 20px rgba(0,0,0,0.12)" }} />
+          </div>
         </div>
       </section>
 
