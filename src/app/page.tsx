@@ -166,7 +166,7 @@ export default function Home() {
         style={{ maxWidth: "900px", margin: "0 auto", padding: "3rem 2rem" }}
       >
         <p style={{ fontSize: "1.1rem", lineHeight: 1.8, color: "#4b5563", marginBottom: "1rem" }}>
-          Welding Flanges is your go-to resource for technical data, dimensions, and specs on industrial piping components. We're here to help engineers and procurement specialists cut through the complexity of choosing the right weld flange for basic structural and high-pressure applications — because getting that decision right matters.
+          Welding Flanges is your go-to resource for technical data, dimensions, and specs on industrial piping components. We're here to help engineers and procurement specialists cut through the complexity of choosing the right weld flange for basic structural and high-pressure applications - because getting that decision right matters.
         </p>
         <p style={{ fontSize: "1.1rem", lineHeight: 1.8, color: "#4b5563" }}>
           We'll give you the data you need to feel confident in your selection. When it's time to actually source the parts, reach out to{" "}
@@ -176,7 +176,7 @@ export default function Home() {
           >
             Texas Flange
           </a>
-          {" "}— a trusted supplier with a wide inventory and fast turnaround. Whether you need a specific pipe flange or something custom-fabricated, get in touch and receive a quote today.
+          {" "}- a trusted supplier with a wide inventory and fast turnaround. Whether you need a specific pipe flange or something custom-fabricated, get in touch and receive a quote today.
         </p>
       </section>
 
@@ -200,8 +200,8 @@ export default function Home() {
             Welding flanges are critical piping components designed to be
             permanently attached to a pipe system via a welding connection,
             ensuring superior joint integrity and leak prevention. Unlike
-            threaded options, a weld flange&#8212;such as a Weld Neck, Slip-On,
-            or Socket Weld&#8212;is engineered for high-pressure and
+            threaded options, a weld flange - such as a Weld Neck, Slip-On,
+            or Socket Weld - is engineered for high-pressure and
             high-temperature applications where safety is paramount. Selecting
             the correct pipe flange specification is essential for maintaining
             flow efficiency and structural stability. For extensive inventories
