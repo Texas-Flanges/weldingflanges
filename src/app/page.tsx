@@ -144,7 +144,7 @@ export default function Home() {
               Request a Quote
             </a>
             <a
-              href="https://texasflange.com?ref=weldingflanges"
+              href="https://texasflange.com/products/flange-dims-weights/ansi-b16-5-forged-flanges/class-300/?ref=weldingflanges"
               style={{
                 border: "2px solid #fff",
                 color: "#fff",
@@ -171,7 +171,7 @@ export default function Home() {
         <p style={{ fontSize: "1.1rem", lineHeight: 1.8, color: "#4b5563" }}>
           We'll give you the data you need to feel confident in your selection. When it's time to actually source the parts, reach out to{" "}
           <a
-            href="https://texasflange.com?ref=weldingflanges"
+            href="https://texasflange.com/products/flange-dims-weights/ansi-b16-5-forged-flanges/class-300/?ref=weldingflanges"
             style={{ color: "#0c1829", fontWeight: 600 }}
           >
             Texas Flange
@@ -207,7 +207,7 @@ export default function Home() {
             flow efficiency and structural stability. For extensive inventories
             and immediate procurement needs, we direct all users to{" "}
             <a
-              href="https://texasflange.com?ref=weldingflanges"
+              href="https://texasflange.com/products/flange-dims-weights/ansi-b16-5-forged-flanges/class-300/?ref=weldingflanges"
               style={{ color: "#0c1829", fontWeight: 600 }}
             >
               Texas Flange
@@ -247,7 +247,7 @@ export default function Home() {
           complete mill test reports, we recommend partnering with a trusted
           flange supplier. Visit{" "}
           <a
-            href="https://texasflange.com?ref=weldingflanges"
+            href="https://texasflange.com/products/flange-dims-weights/ansi-b16-5-forged-flanges/class-300/?ref=weldingflanges"
             style={{ color: "#0c1829", fontWeight: 600 }}
           >
             Texas Flange
@@ -442,7 +442,7 @@ export default function Home() {
           Hours: Mon–Fri, 8 AM – 5 PM CST
         </p>
         <p style={{ fontSize: "0.95rem" }}>
-          <a href="https://texasflange.com?ref=weldingflanges" style={{ color: "#93c5fd" }}>
+          <a href="https://texasflange.com/products/flange-dims-weights/ansi-b16-5-forged-flanges/class-300/?ref=weldingflanges" style={{ color: "#93c5fd" }}>
             Texas Flange
           </a>{" "}
           |{" "}
